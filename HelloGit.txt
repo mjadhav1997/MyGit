@@ -1,8 +1,8 @@
 This is my complete java application file...Hello git!!!
 
 class HelloGit{
-	static void myMethod(){
-	sysout("This is my method");
+	static String myMethod(){
+	return "myMethod";
 	}
 	Public static void main(String args[])
 	{
